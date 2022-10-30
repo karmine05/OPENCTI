@@ -1,3 +1,5 @@
+![[dashboard_openCTI.png]]
+
 ## Installation
 You will need to deploy this on a docker swarm environment
 After your SWARM env is up and running
